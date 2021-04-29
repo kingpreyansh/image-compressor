@@ -1,0 +1,33 @@
+--------------------------------------------
+Marking Scheme:
+--------------------------------------------
+Basic BST operations:
+--------------------------------------------
+Completing the Quad structure        5 marks
+new_Quad                             5 marks
+BST_insert                          10 marks
+BST_search                           5 marks
+BST_delete                          20 marks
+delete_BST                           5 marks
+All traversals                      10 marks
+--------------------------------------------
+                          Subtotal: 60 marks
+--------------------------------------------
+
+
+--------------------------------------------
+Crunchy:
+--------------------------------------------
+get_colour                           5 marks
+similar                              5 marks
+split_tree                          20 marks
+draw_Outline                         5 marks
+save_Quad                            5 marks
+--------------------------------------------
+                          Subtotal: 40 marks
+--------------------------------------------
+
+
+---------------------------------------------
+                      Total for A2: 100 marks
+---------------------------------------------
